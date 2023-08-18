@@ -1,0 +1,6 @@
+# django
+Django
+python-dotenv
+django-storages
+djangorestframework
+django-filter
